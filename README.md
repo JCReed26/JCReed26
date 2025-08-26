@@ -14,15 +14,8 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
   - **Cloudflare** 
   - **Google Agent Development Kit**  
   - **ReactJS + DaisyUI** (for web)  
-  - **React Native** (for mobile)  
-
----
-
-## Looking to Collaborate  
-
-- UX/UI designers interested in shaping the user experience for **Diverge**  
-- Mobile developers (React Native) to help expand Diverge into a polished app  
-- Engineers and researchers interested in **AI Agent development** with the Google ADK  
+  - **React Native** (for mobile)
+  - **Python**
 
 ---
 
