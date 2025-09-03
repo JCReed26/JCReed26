@@ -7,6 +7,12 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
 
 ## Current Focus  
 
+- **FSU Courses**:
+  - Software Engineering & Capstone
+  - Offensive Computer Security
+  - Reverse Engineering & Malware Analysis
+  - Secure Parallel and Distributed Programming in Python
+    
 - **Diverge** – a multi-component R&D initiative exploring how AI agents can encourage healthier technology use, support personal goals, and create a balanced lifestyle. [More details here »](https://github.com/DivergeDev/.github)
 
 - **Dev Master Guide** - A developer-focused knowledge hub that explains **how to implement common use cases** across languages, frameworks, and CLIs — written as a practical, one-stop reference.
@@ -15,17 +21,12 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
   
 - Currently learning and working with:  
   - **Google Cloud Platform**
+  - **Terraform**
   - **Cloudflare** 
   - **Google Agent Development Kit**  
   - **ReactJS + DaisyUI** (for web)  
   - **Python**
   - **C++**
- 
-- **Current FSU Courses**:
-  - Software Engineering & Capstone
-  - Offensive Computer Security
-  - Reverse Engineering & Malware Analysis
-  - Secure Parallel and Distributed Programming in Python
 
 ---
 
