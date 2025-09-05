@@ -3,6 +3,9 @@
 **Computer Science Student** @ Florida State University (Graduating Dec 2025)  
 Passionate about building **AI-powered systems** that improve health, lifestyle, and productivity.  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+[![Resume](https://img.shields.io/badge/Resume-View-orange?logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
+
 ---
 
 ## Current Focus  
