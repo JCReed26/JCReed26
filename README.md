@@ -4,7 +4,7 @@
 Passionate about building **AI-powered systems** that improve health, lifestyle, and productivity.  
 
 **Currently Seeking:** Full Time Positions Starting 2026  
-**Interested In:** Software Engineering | DevOps | AI Solutions & Integrations | Product Development and Strategy
+**Interested In:** Software Engineering | DevOps | Agentic AI Solutions and Strategy
 
 ---
 
@@ -23,7 +23,7 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
   - Reverse Engineering & Malware Analysis
   - Secure Parallel and Distributed Programming in Python
     
-- **Diverge** – a multi-component R&D initiative exploring how AI agents can encourage healthier technology use, support personal goals, and create a balanced lifestyle. [More details here »](https://github.com/DivergeDev/.github)
+- **ZStyle** – a multi-component R&D initiative exploring how AI agents can encourage healthier technology use, support personal goals, and create a balanced lifestyle.
 
 - **Dev Master Guide** - A developer-focused knowledge hub that explains **how to implement common use cases** across languages, frameworks, and CLIs — written as a practical, one-stop reference.
 
@@ -42,18 +42,19 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
 
 ## Featured Projects & Repos  
 
-- Diverge - A large-scale AI-driven lifestyle R&D project designed to **combat technology addiction** by turning devices into tools that guide, encourage, and automate healthier living.
+- ZStyle - A large-scale AI-driven lifestyle R&D project designed to **combat technology addiction** by turning devices into tools that guide, encourage, and automate healthier living.
 
-- Dev Master Guide - A developer-focused knowledge hub that explains **how to implement common use cases** across languages, frameworks, and CLIs — written as a practical, one-stop reference.
+- Vacation Planner (Capstone Project) - A Ai Agent driven travel agency with a simple chat applciation that helps to create full vacations and book all the tickets and organize appropriately.
+
+- Dev Master Guide - A started but not close done anything, this is a developer-focused knowledge hub that doesn't just reference syntax but common and everyday usecases for the framework, language, etc
+
+- python4521-assignments - Programming Secure Parallel, and Distributed Applications Assignments
 
 - Best-Play-Option *(past project)*  
   A course project for Database Management & Analysis:  
   - Built an ML pipeline to train/test a neural network that predicts a coach’s next play based on past season data.
   - Implemented a AWS RDS postgres database, configured VPC to securely connect database to EC2 instance.
   - Designed a frontend dashboard for tracking predictions, success/failure rates, and live play-by-play updates.
-
-- python4521-assignments
-  - Programming Secure Parallel, and Distributed Applications Assignments
 
 ---
 
@@ -62,7 +63,6 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
 [![Email](https://img.shields.io/badge/Email-jamescreed0520%40gmail.com-red?logo=gmail&logoColor=white)](mailto:jamescreed0520@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Reed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-reed-74a84221a/)
 [![Resume](https://img.shields.io/badge/Resume-View-orange?logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
-
 
 
 <!--
