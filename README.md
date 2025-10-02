@@ -28,15 +28,24 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
 - **Dev Master Guide** - A developer-focused knowledge hub that explains **how to implement common use cases** across languages, frameworks, and CLIs — written as a practical, one-stop reference.
 
 <!-- - **Software Engineering Capstone Project** - A clipping and clip auditing software that takes original content from clients and finds short form content using clients content without permission. I will create a binary audio file based categorization algorithm to take audio files detect keywords, phrases, buzzwords, and audio frequency graph collection. -->
-  
-- Currently learning and working with:  
+
+- Skills:  
+  - **Python**
+  - **Google Agent Development Kit**  
+  - **C++**
+  - **Nextjs**
+
+- Stack:
   - **Google Cloud Platform**
   - **Terraform**
   - **Cloudflare** 
-  - **Google Agent Development Kit**  
-  - **ReactJS + DaisyUI** (for web)  
-  - **Python**
-  - **C++**
+
+- Learning:
+  - **LangChain**
+  - **LangGraph**
+  - **LangSmith**
+  - **GO**
+  - **React Native & Gluestack UI**
 
 ---
 
