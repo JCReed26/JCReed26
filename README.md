@@ -53,7 +53,7 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
 
 - ZStyle - A large-scale AI-driven lifestyle R&D project designed to **combat technology addiction** by turning devices into tools that guide, encourage, and automate healthier living.
 
-- Vacation Planner (Capstone Project) - A Ai Agent driven travel agency with a simple chat applciation that helps to create full vacations and book all the tickets and organize appropriately.
+- Vacation Planner (Capstone Project) - A AI Agent driven travel agency with a simple chat applciation that helps to create full vacations and book all the tickets and organize appropriately.
 
 - Dev Master Guide - A started but not close done anything, this is a developer-focused knowledge hub that doesn't just reference syntax but common and everyday usecases for the framework, language, etc
 
