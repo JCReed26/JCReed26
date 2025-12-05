@@ -23,11 +23,14 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
   - Reverse Engineering & Malware Analysis
   - Secure Parallel and Distributed Programming in Python
     
-- **ZStyle** – a multi-component R&D initiative exploring how AI agents can encourage healthier technology use, support personal goals, and create a balanced lifestyle.
+- **ZStyle** – a multi-component AI service to design and implement systems to execute day to day life autonomously while working toward real world goals.
 
+- **VacationPlanner** - A AI Agent driven travel agency with a simple chat applciation that helps to create full vacations and book all the tickets and organize an itinerary appropriately.
+  
+<!-- 
 - **Dev Master Guide** - A developer-focused knowledge hub that explains **how to implement common use cases** across languages, frameworks, and CLIs — written as a practical, one-stop reference.
 
-<!-- - **Software Engineering Capstone Project** - A clipping and clip auditing software that takes original content from clients and finds short form content using clients content without permission. I will create a binary audio file based categorization algorithm to take audio files detect keywords, phrases, buzzwords, and audio frequency graph collection. -->
+- **Software Engineering Capstone Project** - A clipping and clip auditing software that takes original content from clients and finds short form content using clients content without permission. I will create a binary audio file based categorization algorithm to take audio files detect keywords, phrases, buzzwords, and audio frequency graph collection. 
 
 - Skills:  
   - **Python**
@@ -46,16 +49,14 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
   - **LangSmith**
   - **GO**
   - **React Native & Gluestack UI**
-
+-->
 ---
 
 ## Featured Projects & Repos  
 
 - ZStyle - A large-scale AI-driven lifestyle R&D project designed to **combat technology addiction** by turning devices into tools that guide, encourage, and automate healthier living.
 
-- Vacation Planner (Capstone Project) - A AI Agent driven travel agency with a simple chat applciation that helps to create full vacations and book all the tickets and organize appropriately.
-
-- Dev Master Guide - A started but not close done anything, this is a developer-focused knowledge hub that doesn't just reference syntax but common and everyday usecases for the framework, language, etc
+- Vacation Planner (Capstone Project) - An AI Agent driven travel agency with a simple chat applciation that helps to create full vacations and book all the tickets and organize an itinerary appropriately.
 
 - python4521-assignments - Programming Secure Parallel, and Distributed Applications Assignments
 
@@ -66,14 +67,6 @@ Passionate about building **AI-powered systems** that improve health, lifestyle,
   - Designed a frontend dashboard for tracking predictions, success/failure rates, and live play-by-play updates.
 
 ---
-
-## Connect  
-
-[![Email](https://img.shields.io/badge/Email-jamescreed0520%40gmail.com-red?logo=gmail&logoColor=white)](mailto:jamescreed0520@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Reed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-reed-74a84221a/)
-[![Resume](https://img.shields.io/badge/Resume-View-orange?logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
-
-
 <!--
 **JCReed26/JCReed26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
