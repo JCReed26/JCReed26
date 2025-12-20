@@ -34,7 +34,6 @@ Structured learning path to become an AI/ML Robotics Developer, progressing from
 | **3** | The Construct Robotics Developer Path | [Construct-Robotics-Dev](https://github.com/JCReed26/Construct-Robotics-Dev) | Planned |
 
 **Goal:** Master AI Engineering and Agentic AI → Deep ML Understanding → Robotics Integration → AI/ML in Robotics Applications
-
 ---
 
 ## 💻 Tech Stack
@@ -42,16 +41,9 @@ Structured learning path to become an AI/ML Robotics Developer, progressing from
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-<!-- 
-
-To add in future
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
-
--->
 
 ### AI/ML & Frameworks
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
