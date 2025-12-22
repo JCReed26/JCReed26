@@ -29,9 +29,8 @@ Structured learning path to become an AI/ML Robotics Developer, progressing from
 
 | Stage | Focus Area | Repository | Status |
 |-------|------------|------------|--------|
-| **1** | Agentic AI with Google ADK | [Advent-Of-Agents](https://github.com/JCReed26/AgenticAI-ML-Robotics-Learning) | In Progress |
-| **2** | Google Skills ML Engineer Path | [Cert-GCloud-MLE](https://github.com/JCReed26/AgenticAI-ML-Robotics-Learning) | Planned |
-| **3** | The Construct Robotics Developer Path | [Construct-Robotics-Dev](https://github.com/JCReed26/Construct-Robotics-Dev) | Planned |
+| **1** | Google Skills ML Engineer Path | [Cert-GCloud-MLE](https://github.com/JCReed26/AgenticAI-ML-Robotics-Learning) | Planned |
+| **2** | The Construct Robotics Developer Path | [Construct-Robotics-Dev](https://github.com/JCReed26/Construct-Robotics-Dev) | Planned |
 
 **Goal:** Master AI Engineering and Agentic AI → Deep ML Understanding → Robotics Integration → AI/ML in Robotics Applications
 ---
