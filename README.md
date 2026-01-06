@@ -1,7 +1,7 @@
 # Hi, I'm Jimmy Reed 👋
 ### AI Engineer | GTM Engineering | Solutions Architect
 
-My work bridges the gap between **Agentic AI Engineering** and **Business Strategy**. Leveraging an academic focus in **Business Analytics** and **Innovation by Design**, I don't just write code—I analyze business needs to **plan, design, and execute** AI solutions that solve real market problems.
+My work bridges the gap between **Agentic AI Engineering** and **Business Strategy**. Leveraging an academic focus in **Business Analytics** and **Innovation by Design**, I don't just write code I analyze business needs to **plan, design, and execute** AI solutions that solve real market problems.
 
 ---
 
