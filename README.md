@@ -13,7 +13,7 @@ My work bridges the gap between **Agentic AI Engineering** and **Business Strate
 
 ### 🛠 Tech Stack
 
-* **Agentic AI:** Google ADK, LangChain, LangGraph, Multi-Agent Systems (MAS), Agent-2-Agent (A2A), Model Context Protocol (MCP), RAG
+* **Agentic AI:** Google ADK, LangChain, LangGraph, Multi-Agent Systems (MAS), Agent-2-Agent (A2A), Model Context Protocol (MCP)
 * **Backend & Logic:** Python, FastAPI, PostgreSQL
 * **Cloud & DevOps:** Google Cloud Platform (Cloud Run, Cloud Armor), Terraform, Docker, CI/CD
 * **Strategy:** Solutions Architecture, Technical Feasibility, GTM (Go-To-Market) Strategy
