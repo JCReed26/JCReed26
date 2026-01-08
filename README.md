@@ -1,7 +1,7 @@
 # Hi, I'm Jimmy Reed
-### AI Engineer | GTM Engineering | Backend & Cloud Systems | Python Developer | Building Scalable Agentic Architectures | FSU CS Graduate
+### AI Engineer | Solving Complex Problems through Technology & Human Insight | Backend & Cloud Developer | FSU CS Graduate
 
-My work bridges the gap between **Scalable Cloud Systems** and **Business Strategy**. Leveraging technical expertise in **Python & Backend Engineering** alongside an academic focus in Business Analytics, I architect robust **Agentic AI** solutions to **plan, design, and execute** products that solve real market problems.
+In my work I look to bridge the gap between **Scalable Systems** and **Business Strategy**. Leveraging technical expertise in **Python & Backend Engineering**, I architect robust **Agentic AI** solutions to **plan, design, and execute** products that solve real problems.
 
 ---
 
