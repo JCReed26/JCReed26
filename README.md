@@ -24,4 +24,4 @@ In my work I look to bridge the gap between **Scalable Systems** and **Business 
 
 I am actively seeking full-time roles in **AI Engineering**, **GTM Engineering**, or **Solutions Engineering** in FL, GA, TX, or NY.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-reed-74a84221a) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamescreed0520@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jcreed26) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamescreed0520@gmail.com)
