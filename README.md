@@ -1,18 +1,27 @@
 # Hi, I'm Jimmy Reed
-### Aspiring AI Engineer / Solutions Architect | FSU CS Graduate
+### Aspiring AI Engineer / Solutions Architect | FSU Computer Science Graduate
+
+---
+## What I'm Learning
+
+* **[AI Engineer for Developers Associate Certification](https://app.datacamp.com/certification/get-started/ai-engineer-for-developers-associate/overview)** | *DataCamp*
+    * **Status:** In Progress
+    * **Projected Completion:** February 2026
+
+### Education
+* **[Florida State University](https://www.cs.fsu.edu/)** | *B.A. in Computer Science*
 
 ---
 
-### What I'm Building
+## What I'm Building
 
-* **ZStyle Services**
-    *Autonomous Executive Assistant*
-    An autonomous multi-agent & automation system built to manage daily tracking, planning, organizing, and optimization lifes everyday habits to support healthy lifestyles.
+* **[ZStyle Services](https://github.com/JCReed26/ZStyle-Services)** | *Autonomous Executive Assistant*
+    * **The Goal:** A multi-agent system designed to automate daily planning, habit tracking, and lifestyle optimization.
+    * **Tech:** LangGraph, Python, PostgreSQL, and custom tool-calling for life-management APIs.
 
-* **Jimmys-Agents**
-    *Developing reasoning agents and agentic systems using the LangChain ecosystem. Focusing on agents that can plan and execute complex workflows across disparate APIs.*
-    **Examples:**
-      - *job-app-chain:* a multi step chain to get, clean, sort, job listing and optimized relevant documents for qualified application to job description.
+* **[Jimmys-Agents](https://github.com/JCReed26/Jimmys-Agents)** | *Agentic Design Patterns*
+    * **The Goal:** Researching and implementing reasoning agents that execute complex workflows across disparate APIs.
+    * **Highlight:** `job-app-chain` — A multi-step LangChain workflow that scrapes, cleans, and optimizes job applications based on specific descriptions.
   
 ---
 
