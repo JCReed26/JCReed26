@@ -6,7 +6,7 @@
 
 * **[AI Engineer for Developers Associate Certification](https://app.datacamp.com/certification/get-started/ai-engineer-for-developers-associate/overview)** | *DataCamp*
     * **Status:** In Progress
-    * **Projected Completion:** February 2026
+    * **Projected Completion:** March 2026
 
 ### Education
 * **[Florida State University](https://www.cs.fsu.edu/)** | *B.A. in Computer Science*
