@@ -11,8 +11,8 @@
 ## What I'm Building
 
 * **[Jimmys-Agents](https://github.com/JCReed26/Jimmys-Agents)** | *Agentic Design Patterns*
-    * **The Goal:** Researching and implementing reasoning agents that execute complex workflows across disparate APIs.
-    * **Highlight:** `job-app-chain` — A multi-step LangChain workflow that scrapes, cleans, and optimizes job applications based on specific descriptions.
+    * **The Goal:** A centralized orchestration layer and command center for managing and orchrating agentic ai agents that manage my daily workflows.
+    * **Tech**: Langgraph, DeepAgents, FastAPI, NextJS, Claude Code
  
 * **[ZStyle Services](https://github.com/JCReed26/ZStyle-Services)** | *Autonomous Executive Assistant*
     * **The Goal:** A multi-agent system designed to automate daily planning, habit tracking, and lifestyle optimization.
