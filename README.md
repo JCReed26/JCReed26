@@ -1,10 +1,18 @@
 # Hi, I'm Jimmy Reed
-### Aspiring AI Engineer / Solutions Architect | FSU Computer Science Graduate
+### Aspiring AI Engineer / AI Solutions Architect | FSU Computer Science Graduate
 
 ---
 ### Education
 * **[Florida State University](https://www.cs.fsu.edu/)** | *B.A. in Computer Science*
 * **[AI Engineer for Developers Associate Certification](https://app.datacamp.com/certification/get-started/ai-engineer-for-developers-associate/overview)** | *DataCamp* | **Completed:** March 2026
+
+---
+
+## What I'm Learning
+
+* **[Claude Certified Architect Foundations](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request)**
+   * **The Goal:** Complete the courses with a side project to showcase skills, keeping notes within [AgenticAI-Learning](https://github.com/JCReed26/AgenticAI-Learning).
+   * **The Exam:** While only available to partner companies, I plan to take as soon as its publically available. I am also seeking opportunities within partner companies to get this certification.
 
 ---
 
@@ -22,8 +30,8 @@
 
 ### Tech Stack
 
-**AI Skills**
-`LangChain` `LangGraph` `Google ADK` `A2A` `MCP` `AG-UI` `Copilotkit`
+**AI Engineering**
+`DeepAgents` `LangChain` `LangGraph` `Google ADK` `A2A` `MCP` `AG-UI` `Copilotkit`
 
 **Software Engineering**
 `Python` `TypeScript` `FastAPI` `PostgreSQL` `Next.js` `GCP` `Docker`
@@ -39,7 +47,7 @@
 
 ### Let's Connect
 
-I am actively seeking full-time entry-level and junior roles in **AI Engineering**, **Software Engineering**, **Solutions Architect**, **AI Strategy**, and **AI Forward Deployed Engineer**.
+I am actively seeking full-time entry-level and junior roles in **AI Engineering**, **Software Engineering**, **AI Solutions Architect**, and **AI Business Strategy**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcreed26)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jamescreed0520@gmail.com)
