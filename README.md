@@ -11,7 +11,7 @@
 ## What I'm Learning
 
 * **[Claude Certified Architect Foundations](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request)**
-   * **The Goal:** Complete the courses with a side project to showcase skills, keeping notes within [AgenticAI-Learning](https://github.com/JCReed26/AgenticAI-Learning).
+   * **The Goal:** Complete the courses with a side project to showcase skills.
    * **The Exam:** While only available to partner companies, I plan to take as soon as its publically available. I am also seeking opportunities within partner companies to get this certification.
 
 ---
@@ -31,10 +31,13 @@
 ### Tech Stack
 
 **AI Engineering**
-`DeepAgents` `LangChain` `LangGraph` `Google ADK` `A2A` `MCP` `AG-UI` `Copilotkit`
+`DeepAgents` `LangChain` `LangGraph` `Google ADK` `A2A` `MCP` `AG-UI`
 
 **Software Engineering**
 `Python` `TypeScript` `FastAPI` `PostgreSQL` `Next.js` `GCP` `Docker`
+
+**Tools**
+`Claude Code` `Cursor`
 
 ---
 
