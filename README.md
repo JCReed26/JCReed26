@@ -18,6 +18,8 @@
 
 ## What I'm Building
 
+* **[Socratic-PM](https://github.com/JCReed26/Socratic-PM)** | *Coding Agent Plugin*
+
 * **[Jimmys-Agents](https://github.com/JCReed26/Jimmys-Agents)** | *Agentic Design Patterns*
     * **The Goal:** A centralized orchestration layer and command center for managing and orchrating agentic ai agents that manage my daily workflows.
     * **Tech**: Langgraph, DeepAgents, FastAPI, NextJS, Claude Code
